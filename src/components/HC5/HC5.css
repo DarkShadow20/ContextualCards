@@ -1,0 +1,17 @@
+.hc5_container{
+    width: 100%;
+}
+.normalImgList__imgWrapper{
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: none !important; /* IE and Edge */
+    justify-content: flex-start;
+    align-items: center;
+}
+.hc5_img{
+    width: 80%;
+    height: 100%;
+    margin-left: 2rem;  
+    border-radius: 1rem;
+}

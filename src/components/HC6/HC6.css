@@ -1,0 +1,27 @@
+.hc6_card{
+    background-color: #fff;
+    border-radius: 10px;
+}
+.hc6_container{
+    width: 80%;
+    padding: 0rem 1rem 1rem 1rem ;
+    margin-left: 1rem;
+}
+.hc6_card_img{
+    display: flex;
+}
+.hc6_img{
+    width: 10%;
+    padding: 0.5rem;
+}
+.hc6_img_text{
+    padding: 0.5rem;
+}
+.hc6_img_text_container{
+    display: flex;
+    flex-direction: column;
+}
+.hc6_img_desc{
+    margin-left: 0.5rem;
+    padding-bottom: 0.5rem;
+}

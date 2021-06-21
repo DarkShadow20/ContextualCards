@@ -1,0 +1,54 @@
+.hc3_container{
+    width: 100%;
+}
+.hc3_card{
+    position: relative;
+    display: flex;
+    width: 100%;
+    overflow-x: hidden;
+}
+.hc3_img_container{
+    position: relative;
+}
+.hc3_img{
+    width: 80%;
+    padding: 1rem 2rem;
+}
+.hc3_btn{
+    position: absolute;
+    right: 0;
+    bottom: 3rem;
+    left: 5rem;
+    outline: none;
+    border: none;
+    width: 6rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+.hc3_text_desc{
+    position: absolute;
+    width: 65%;
+    bottom: 27%;
+    left: 20%;
+}
+.hc3_text_title{
+    position: absolute;
+    width: 65%;
+    left: 20%;
+    bottom: 50%;
+}
+.action_btn{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: center;
+    position: absolute;
+}
+.action_btn button{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    outline: none;
+    border: none;
+    height: 4rem;
+    border-radius: 1rem;
+}

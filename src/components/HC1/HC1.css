@@ -1,0 +1,24 @@
+.hc1_Scroll_img{
+    width: 20%;
+    margin-left: 2rem;
+    padding: 1rem 0.5rem;
+}
+.hc1_notScroll_container{
+    display: flex;
+}
+.hc1_notScroll_img{
+    width: 10%;
+    margin-left: 2rem;
+    padding: 1rem 0.5rem;
+}
+.hc1_card_img{
+   display: flex;
+   width: fit-content;
+}
+.hc1_img_text_container{
+   padding: 1rem 0;
+}
+
+.hc1_img_text{
+    padding-top: 1rem;
+}
